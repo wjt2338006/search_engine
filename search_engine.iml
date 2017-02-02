@@ -12,5 +12,6 @@
     <orderEntry type="library" name="lucene-demo-6.4.0" level="project" />
     <orderEntry type="library" exported="" name="lucene-queryparser-6.4.0" level="project" />
     <orderEntry type="library" exported="" name="4j" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.11.8" level="application" />
   </component>
 </module>
