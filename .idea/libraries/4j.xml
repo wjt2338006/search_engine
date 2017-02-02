@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mmseg4j-1.9.2/mmseg4j-analysis/target/mmseg4j-analysis-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mmseg4j-1.9.2/mmseg4j-core/target/mmseg4j-core-1.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

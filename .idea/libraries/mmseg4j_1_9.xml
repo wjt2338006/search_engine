@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="mmseg4j-1.9">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/mmseg4j-1.9.2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/mmseg4j-1.9.2/mmseg4j-analysis/src/main/java" />
+      <root url="file://$PROJECT_DIR$/lib/mmseg4j-1.9.2/mmseg4j-analysis/src/test/java" />
+      <root url="file://$PROJECT_DIR$/lib/mmseg4j-1.9.2/mmseg4j-core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/lib/mmseg4j-1.9.2/mmseg4j-core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/lib/mmseg4j-1.9.2/mmseg4j-solr/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
